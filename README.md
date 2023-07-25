@@ -2,6 +2,13 @@
 
 > A curated list of awesome resources related to counter terrorism
 
+## Contents
+
+- [Contents](#contents)
+- [Data Sources](#data-sources)
+- [Projects \& Organizations](#projects--organizations)
+- [Classic Papers](#classic-papers)
+
 ## Data Sources
 
 - [Global Terrorism Database](https://www.start.umd.edu/gtd/): A compilation of over 200,000 terror-related incidents from 1970-2020
