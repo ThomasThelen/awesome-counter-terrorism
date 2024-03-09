@@ -2,14 +2,17 @@
 
 > A curated list of awesome resources related to counter terrorism
 
+![](./images/logo.png)
+
 Counter-terrorism is the field concerned with the management and strategies aimed to combat terrorism. This happens through intensive research, information gathering, and multi-agency efforts.
 
 ## Contents
 
-- [Contents](#contents)
-- [Data Sources](#data-sources)
-- [Projects \& Organizations](#projects--organizations)
-- [Papers](#papers)
+- [awesome-counter-terrorism ](#awesome-counter-terrorism-)
+  - [Contents](#contents)
+  - [Data Sources](#data-sources)
+  - [Projects \& Organizations](#projects--organizations)
+  - [Papers](#papers)
 
 ## Data Sources
 
