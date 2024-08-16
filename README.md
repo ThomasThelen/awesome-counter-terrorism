@@ -60,6 +60,8 @@ Counter-terrorism is the field concerned with the management and strategies aime
 
 - [Africa Center for Strategic Studies](https://africacenter.org/): A research forum centered around conflict on the African continent
 
+- [Combating Terrorism Center at West Point](https://ctc.westpoint.edu/): West Point's center on terror and extremism
+
 ## Papers
 
 Highly cited and influential papers in the field
